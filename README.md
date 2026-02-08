@@ -10,7 +10,7 @@ The repository includes practical implementations of core **Operating System con
 - CPU scheduling algorithms
 - Deadlock handling techniques
 - Memory management algorithms
-- File handling and system calls
+- File handling and system calls using the shell programing
 - Shell scripting basics
 
 ## 🛠️ Technologies & Tools
