@@ -1,4 +1,4 @@
-# Operating-System-Lab-Work  it is done by prabhat sir
+# Operating-System-Lab-Work  
 
 This repository contains all **Operating System Lab programs and experiments** completed as part of my academic curriculum.
 
