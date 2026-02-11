@@ -8,7 +8,7 @@ The repository includes practical implementations of core **Operating System con
 ## 🧪 Lab Experiments Include
 - Process creation and management
 - CPU scheduling algorithms
-- Deadlock handling techniques
+- Deadlock handling techniques and doing the maintainance of the massive workflow
 - Memory management algorithms
 - File handling and system calls using the shell programing
 - Shell scripting basics
