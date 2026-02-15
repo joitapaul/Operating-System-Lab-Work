@@ -13,7 +13,7 @@ The repository includes practical implementations of core **Operating System con
 - File handling and system calls using the shell programing
 - Shell scripting basics
 
-## 🛠️ Technologies 
+## 🛠️ Technologies & Tools
 - C Programming
 - Shell (Bash)
 - Linux / Unix Environment
